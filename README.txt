@@ -1,4 +1,4 @@
-registration-app script for the project
+registration-app scripts for the project
 <br>
 ===============================Jenkins Installation==================================
 https://www.jenkins.io/doc/book/installing/linux/
